@@ -12,7 +12,6 @@ var Logo = function Logo(_ref) {
   return /*#__PURE__*/React.createElement("a", _extends({
     href: href,
     className: "logo",
-    style: {height: "45px"}
   }, attributes), /*#__PURE__*/React.createElement("img", {
     className: "d-block",
     style: {
