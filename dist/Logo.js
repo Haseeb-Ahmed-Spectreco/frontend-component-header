@@ -11,7 +11,8 @@ var Logo = function Logo(_ref) {
     attributes = _objectWithoutProperties(_ref, _excluded);
   return /*#__PURE__*/React.createElement("a", _extends({
     href: href,
-    className: "logo"
+    className: "logo",
+    style: {height: "45px"}
   }, attributes), /*#__PURE__*/React.createElement("img", {
     className: "d-block",
     style: {
